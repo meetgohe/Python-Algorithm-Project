@@ -41,3 +41,56 @@ Built using:
 
 ```bash
 pip install networkx matplotlib
+
+
+
+
+---
+
+# AI Water Jug Problem (BFS + Animation)
+
+```markdown
+# 💧 AI Water Jug Problem Solver (BFS + Animated GUI)
+
+An AI-based solution for the classic Water Jug Problem using Breadth-First Search (BFS) with animated visualization.
+
+
+## 📌 Overview
+
+This project solves the Water Jug Problem using:
+
+- State Space Search
+- Breadth-First Search (BFS)
+- Animated visualization using Tkinter Canvas
+
+The application visually demonstrates each step in the solution path.
+
+
+## 🧠 AI Concepts Used
+
+- BFS (Breadth-First Search)
+- Queue-based traversal
+- State space representation
+- Visited state tracking
+- Constraint checking
+
+
+## 🚀 Features
+
+✔ Animated jug filling  
+✔ Step-by-step solution output  
+✔ Custom jug capacities (Max 10)  
+✔ Target in Jug1 / Jug2 / Either  
+✔ Optional condition: Other jug must be empty  
+✔ GUI-based input system  
+
+
+## 💻 Requirements
+
+No external libraries required (only built-in Python libraries).
+
+
+## ▶️ How to Run
+
+```bash
+python water_jug_ai.py
