@@ -35,21 +35,11 @@ Built using:
 ✔ JSON save/load support  
 ✔ Error handling  
 
----
-
-## 💻 Installation
-
-```bash
-pip install networkx matplotlib
-
-
-
 
 ---
 
 # AI Water Jug Problem (BFS + Animation)
 
-```markdown
 # 💧 AI Water Jug Problem Solver (BFS + Animated GUI)
 
 An AI-based solution for the classic Water Jug Problem using Breadth-First Search (BFS) with animated visualization.
@@ -89,8 +79,3 @@ The application visually demonstrates each step in the solution path.
 
 No external libraries required (only built-in Python libraries).
 
-
-## ▶️ How to Run
-
-```bash
-python water_jug_ai.py
